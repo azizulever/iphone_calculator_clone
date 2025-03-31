@@ -75,7 +75,6 @@ class _IphoneCalculatorCloneState extends State<IphoneCalculatorClone> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     TextButton(onPressed: () {}, child: Text('0')),
-                    TextButton(onPressed: () {}, child: Text(' ')),
                     TextButton(onPressed: () {}, child: Text('.')),
                     TextButton(onPressed: () {}, child: Text('=')),
                   ],
